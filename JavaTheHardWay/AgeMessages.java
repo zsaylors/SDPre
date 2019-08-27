@@ -27,7 +27,7 @@ public class AgeMessages {
     if ( age >= 18 ) {
         System.out.println( "\told enough to get a tattoo" );
     }
-    if (age < 21 ) {
+    if (age < 21 ) {3
         System.out.println( "\ttoo young to drink alcohol" );
     }
     if ( age >= 21 ) {
