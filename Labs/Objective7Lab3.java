@@ -21,8 +21,7 @@ public class Objective7Lab3 {
       }
     }
 
-    //scanner.close();
-
+    scanner.close();
   }
 
   public static void printMenu() {
