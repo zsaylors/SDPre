@@ -54,6 +54,7 @@ public class CoinFlipSaved {
       System.out.print("Your name: ");
       bestName = keyboard.next();
       best = streak;
+      // modified for Study Drill.
       PrintWriter out = new PrintWriter(f);
         out.println(bestName);
         out.println(best);
